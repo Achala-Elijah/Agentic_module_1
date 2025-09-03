@@ -1,0 +1,6 @@
+langchain
+langchain-huggingface
+langchain-community
+langchain-groq
+chromadb
+huggingface-hub
