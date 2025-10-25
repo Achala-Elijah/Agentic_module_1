@@ -1,3 +1,26 @@
+# 🧠 RAG-Based Research Assistant
+
+This is a **Retrieval-Augmented Generation (RAG)** based research assistant.  
+You provide it with your own **knowledge base**, ask it questions, and it answers based on the information contained in that knowledge base.
+
+---
+
+## ⚙️ Setup and Usage
+
+1. Provide your **GROQ API key** in a `.env` file.  
+   Follow the format shown in the `.env_example` file.
+
+2. Install all the requirements listed in the `requirements.txt` file:
+   ```bash
+   pip install -r requirements.txt
+
+
+
+
+
+
+
+
 This is a RAG based research assistant.
 You give it your knowledge based, ask it a question and then it answers you based on the knowledge based.
 
